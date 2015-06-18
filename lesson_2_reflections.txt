@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+I think it creates a log about the current files in the directory, stores the date of the repo initialization and thats all. I cannot think anything else Git could do. I think they are made to be able to check which files can be added to the commit. Well, the time could be unnecessary.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Well, the staging area consists of the files of the working directory, but not necesseraly the all of them. The working dir is the actual directory, where your files and directories resides. The staging area is a virtual directory, where only only the changes resides that you want to commit. The repo is also a virtual directory which contains every version of every file.
