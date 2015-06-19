@@ -17,3 +17,11 @@ Branches are differennt versions of the project, they have different purpose. It
 How do the diagrams help you visualize the branch structure?
 
 It is easy, it shows me the entire structure, all the branches and the commits in them. I can see which commits are in which branches and the reachability is clear of all commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging contains all the commits of the merges branches. This is why the two lines continues in one in the diagram.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The automatic merges can save us pretty significant time, which is good :) On the other hand, it can make mistakes which ruin the code and make it unbuildable, which is pretty bad.
