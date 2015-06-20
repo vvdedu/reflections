@@ -13,3 +13,6 @@ Branches: they different versions (and commit histories) of the whole content of
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is simple. If we always have the last commit from the remote, then we dont have to merge afterwards, because we make changes always from the last remote commit.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would speak with others on phone or skype all the time, always double check the mofifications and so on. I would be much harder. The pull request would be easier though, because I could simply talk with the other one about the change and if everybody agrees then i do it the changes and send it to everyone.
