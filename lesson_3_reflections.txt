@@ -16,3 +16,6 @@ It is simple. If we always have the last commit from the remote, then we dont ha
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would speak with others on phone or skype all the time, always double check the mofifications and so on. I would be much harder. The pull request would be easier though, because I could simply talk with the other one about the change and if everybody agrees then i do it the changes and send it to everyone.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+It makes me easier to maintain the official version, while i can experiment on the other branch. I think ot only worths when we really need different version of the project: official, premium, experimental, etc..
