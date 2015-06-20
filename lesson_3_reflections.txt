@@ -5,3 +5,8 @@ or hard drive crashes, then my work still remains on the cloud :)
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Good question. Maybe because if someone other made changes and push to the remote and i dont want to pull it yet.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks: repositories on GitHub, they are only on the web (on the github servers).
+Clones: they are repositories on local. Can be cloned from other local repo or from a GitHub repo.
+Branches: they different versions (and commit histories) of the whole content of one repositories. So one repo can contain multiple branches.
