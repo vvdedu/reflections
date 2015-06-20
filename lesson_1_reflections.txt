@@ -14,8 +14,12 @@ Because version control systems are used in project, which usually consist multi
 
 How can you use the commands git log and git diff to view the history of files?
 
-I cannot understand the question properly. I think the gui version of git or tfs is musch better and easier.
+Git log can show the id-s of the commits, and with that in mind i can use Git diff to show differences between commits (versions).
 
 How might using version control make you more confident to make changes that could break something?
 
 It is fairly simple. If i make something wrong, i can revert it with very easy, see what is the mistake and fix it on the latest commit. Its not a big deal :)
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+For this course to complete as fast as possible :) And after that i want to make a html5 game, and propably i want to use GIT for that.
